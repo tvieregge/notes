@@ -9,3 +9,8 @@ Takes in types as parameters to produce new types.
 Ex. The Maybe type has a single type parameter 'a' and is defined as
 
     data Maybe a = Nothing | Just a
+
+#### Functor Laws
+
+    fmap id = id
+    fmap (f . g) = fmap f . fmap g
