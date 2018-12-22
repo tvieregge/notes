@@ -14,3 +14,13 @@ Ex. The Maybe type has a single type parameter 'a' and is defined as
 
     fmap id = id
     fmap (f . g) = fmap f . fmap g
+
+#### Data constructor
+A function taking some values as its arguments, and then uses those to construct a  
+new value.
+
+    data Colour = RGB Int Int Int
+
+RGB is a data constructor with type
+
+    RGB :: Int -> Int -> Int -> Colour
