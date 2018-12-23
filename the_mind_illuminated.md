@@ -4,7 +4,8 @@
 ## Table of Contents
 
 [Overview of the Ten Stages](#overview-of-the-ten-stages)  
-[First Interlude](#first-interlude)
+[First Interlude](#first-interlude)  
+[Stage One](#stage-one)
 
 ## Abbreviations etc.
 MV - Mind-Wandering  
@@ -43,8 +44,8 @@ it thinks in unimportant. It also profides quick reations that don't have time f
 __Extrospective__ vs. __Introspective__: Extrospective means it is directed outside the the mind,
 introspective means internal to the mind (thoughts, feeling etc.).
 
-Attention and PA can be either of these, but only PA can observe the state of the mind as a whole (can't pay attention to
-attention).
+Attention and PA can be either of these, but only PA can observe the state of the mind as a whole
+(can't pay attention to attention).
 
 Attention and PA draw from the same source (consciousness), there must be a trade off.
 Training attention and PA at the same time is what increases power of consciousness,
@@ -59,3 +60,38 @@ Your partner has a bad day at work and complains about the food you made. It tak
 to to maintain an objective awareness and realize what the complainet is really about. It take
 a more powerful consciousness to have the energy to deal with the strong emotions while
 maintaining mindfulness.
+
+## Stage One
+### Establishing a Practice
+
+Preparing for prectice:  
+Go over these point before each sit.
+
+* Motivation - Why you are meditating
+* Goals - Set a direction for your practive. Use recent problems and the stage you are at to set
+reasonable ones.
+* Beware of expectations - Be careful about where you "should be", any sit is a good one if you
+practice diligently.
+* Commit to diligence - No point meditating if you aren't trying.
+
+Four step tansition to meditation object:  
+Use theis as part of the practice. Each step is an opportunity to distinguish between attention
+and awareness at different scopes of focus. Always try to keep awareness open. If attention
+moves away from the goal *gently* bring it back.
+
+1. Focus on the present - Anything is good, as lng as it is in the present. Give priority to 
+sensations over thoughts.
+2. Focus on the body - Any sesation related to the body is good.
+3. Bodily sensations related to the breath - Same as 2, but limeted.
+4. Breath at the nose - This is the MO
+
+Expect to be aware of many other things as you focus on the breath, just don't engage.
+
+__Emphasize relaxation, peacefulness and pleasure ranther than willpower and effort.__
+
+Attitude: Don't slip into a judgemental, critiacal, stiving attitude. Aiming to be free
+from judgement and expectations. If you are feeling like you have to __struggle__ or it's
+__difficult__ you probably need to examine your attitude.
+
+You have mastered this stage when you never miss a daily practice excepts when comletely
+unavoidable.
