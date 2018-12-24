@@ -95,3 +95,15 @@ __difficult__ you probably need to examine your attitude.
 
 You have mastered this stage when you never miss a daily practice excepts when comletely
 unavoidable.
+
+## Second Interlude
+The mind has many processes and drives internaly that can be miscalibrated. This miscallibration
+can cause problems (especially with internal drives) that lead to *the five hinderances*.
+Meditation trains and emphasizes certain of these processes that help un move beyond these problems.
+
+Keep in mind that these process are still useful. Laziness, adgitation etc. are useful.
+
+Ex of problematic thinking: "I need" a beautiful home to be happy; "I hate" rude people; "I can't
+take" this place anymore; "I'm not" good/fast/smat enough etc.
+
+Not sure on unsefulness of catecories. See page 67 details on them.
