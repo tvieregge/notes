@@ -107,3 +107,14 @@ Ex of problematic thinking: "I need" a beautiful home to be happy; "I hate" rude
 take" this place anymore; "I'm not" good/fast/smat enough etc.
 
 Not sure on unsefulness of catecories. See page 67 details on them.
+
+5 hinderances lead to 7 problems. A useful table of the problems and their solutions is on pg 77.  
+Thses problems are:
+
+* Procrastination and resistance to training
+* Distractions, forgetting
+* Impatience
+* Monkey-Mind
+* Self-Doubt
+* Dullness, drowsiness
+* Phisical discomfort
