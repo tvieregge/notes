@@ -78,3 +78,10 @@ a functor?
 __Applicative Law(s):__ There are s bunch, only this one seems to get any attention.
 
     pure f <*> a === fmap f a
+
+__Applicative Examples:__
+
+    ((+) <$> (+3) <*> (*100)) === ((\x -> ((+) (3 + x))) <*> (*100))
+    (:) <$> (+4) <*> pure [] ===
+    \x -> ((:) (4 + x))) <*> pure []) ===
+    \y -> (\x -> ((:) (4 + x))) y $ (pure []) y
