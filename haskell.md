@@ -85,3 +85,8 @@ __Applicative Examples:__
     (:) <$> (+4) <*> pure [] ===
     \x -> ((:) (4 + x))) <*> pure []) ===
     \y -> (\x -> ((:) (4 + x))) y $ (pure []) y
+
+#### Monads
+*TODO*
+
+
