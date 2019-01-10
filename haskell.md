@@ -75,7 +75,7 @@ a functor?
     $ (+) <$> [1,2,3] <*> pure 4
     [5,6,7]
 
-__Applicative Law(s):__ There are s bunch, only this one seems to get any attention.
+__Applicative Law(s):__ There are a bunch, only this one seems to get any attention.
 
     pure f <*> a === fmap f a
 
