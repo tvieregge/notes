@@ -69,7 +69,7 @@ Preparing for prectice:
 Go over these point before each sit.
 
 * Motivation - Why you are meditating
-* Goals - Set a direction for your practive. Use recent problems and the stage you are at to set
+* Goals - Set a direction for your practice. Use recent problems and the stage you are at to set
 reasonable ones.
 * Beware of expectations - Be careful about where you "should be", any sit is a good one if you
 practice diligently.
@@ -83,14 +83,14 @@ moves away from the goal *gently* bring it back.
 1. Focus on the present - Anything is good, as lng as it is in the present. Give priority to 
 sensations over thoughts.
 2. Focus on the body - Any sesation related to the body is good.
-3. Bodily sensations related to the breath - Same as 2, but limeted.
+3. Bodily sensations related to the breath - Same as 2, but limited.
 4. Breath at the nose - This is the MO
 
 Expect to be aware of many other things as you focus on the breath, just don't engage.
 
 __Emphasize relaxation, peacefulness and pleasure ranther than willpower and effort.__
 
-Attitude: Don't slip into a judgemental, critiacal, stiving attitude. Aiming to be free
+Attitude: Don't slip into a judgemental, critiacal, striving attitude. Aiming to be free
 from judgement and expectations. If you are feeling like you have to __struggle__ or it's
 __difficult__ you probably need to examine your attitude.
 
