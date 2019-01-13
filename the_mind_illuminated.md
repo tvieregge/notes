@@ -6,6 +6,7 @@
 [Overview of the Ten Stages](#overview-of-the-ten-stages)  
 [First Interlude](#first-interlude)  
 [Stage One](#stage-one)
+[Stage Two](#stage-two)
 
 ## Abbreviations etc.
 MV - Mind-Wandering  
@@ -118,3 +119,32 @@ Thses problems are:
 * Self-Doubt
 * Dullness, drowsiness
 * Phisical discomfort
+
+## Stage Two
+### Interrupted Attention and Overcoming Mind-Wandering
+
+__Goal:__ To change from meditation being mostly mind-wandering, interrupted by breif attention, to
+mostly attention to the breath with breif periodes of mind wandering.
+(Shorten periodes of mind wandering, extend periodes of sustained attention).
+
+The main method is: appreciate the *aha moment* when you realize the mind is wandering (this
+shortens the periodes of mind-wandering) then *gently but firmly* redirect attention back to the
+breath (engaging with the breath trains for longer periodes of sustained attention).
+
+You shouldn't be working hard (see above on attitude).
+
+__Obstacles:__ mind-wandering, forgettingi, monkey-mind, impatience. Forgetting isn't
+really dealth with until stage 3.
+
+__Forgetting:__ forgetting the MO as well as the intention to focus on the breath.
+
+__Mind-Wandering:__ after we've forgotten the mind will wander between thoughts, until we "wake-up".
+
+__Mindfulness__ is strong when attention is accompanied by greater awareness.
+
+Distraction -> Forgetting -> Mind-Wandering -> "Wakeing Up" -> Attention -> Distraction...
+
+Redirection attention: Do this without self-judgement, make sure to apprecite the moment.
+Becoming aware of MW isn't something *you* did, it's an unconsious process, train it.
+
+The "aha" moment is a moment of __introspective awareness__.
