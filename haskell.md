@@ -81,10 +81,15 @@ __Applicative Law(s):__ There are a bunch, only this one seems to get any attent
 
 __Applicative Examples:__
 
-    ((+) <$> (+3) <*> (*100)) === ((\x -> ((+) (3 + x))) <*> (*100))
+    Just (+2) <*> Just 5 === Just 7
+
+    ((+) <$> (+3) <*> (*100)) ===
+    ((\x -> ((+) (3 + x))) <*> (*100)) ===
+    (\x -> ((+) (3 + x) (x*100))) ===
+
     (:) <$> (+4) <*> pure [] ===
-    (\x -> ((:) (4 + x))) <*> pure []) ===
-    (\y -> (\x -> ((:) (4 + x))) y) y []
+    ((\x -> ((:) (4 + x))) <*> pure []) ===
+    (\x -> ((:) (4 + x) []))
 
 #### Monads
 *TODO*
