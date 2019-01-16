@@ -112,6 +112,11 @@ a list to a value.
     (x `mappend` y) `mappend` z = x `mappend` (y `mappend` z) <- associative
 
 #### Why they matter
-    *TODO*
+The ability to combine components of type A into a single component of type a is useful,
+reduces the laering of abstractions. Solves:
+
+    Oh no, these Bs are not connectable, so let's make a network of Bs and call that a C.
+    Well, I want to assemble several Cs, so let's make a network of Cs and call that a D
+
 ### Monads
 *TODO*
