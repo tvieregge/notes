@@ -91,5 +91,15 @@ __Applicative Examples:__
     ((\x -> ((:) (4 + x))) <*> pure []) ===
     (\x -> ((:) (4 + x) []))
 
+### Monoids
+A class with an associative binary function, an identity value and a function to recude
+a list to a value.
+
+#### Monoid Laws
+
+    mempty `mappend` x = x | <- identity
+    x `mappend` mempty = x |
+    (x `mappend` y) `mappend` z = x `mappend` (y `mappend` z) <- associative
+
 #### Monads
 *TODO*
