@@ -10,6 +10,16 @@ Ex. The Maybe type has a single type parameter 'a' and is defined as
 
     data Maybe a = Nothing | Just a
 
+Generally you do not add type class constraints in data decl.
+It doesn't provide much because you would still need the constraint in functions
+that take the type and also restricts functions that use the type but don't rely
+on the constraint.
+
+Its type signature is `toList :: Map k a -> [(k, a)]`. If `Map k v` had a type con-
+straint in its data declaration, the type for `toList` would need to be `toList ::
+(Ord k) => Map k a -> [(k, a)]`, even though the function doesn’t compare
+keys by order.
+
 #### Data constructor
 A function taking some values as its arguments, and then uses those to construct a  
 new value.
@@ -101,5 +111,7 @@ a list to a value.
     x `mappend` mempty = x |
     (x `mappend` y) `mappend` z = x `mappend` (y `mappend` z) <- associative
 
-#### Monads
+#### Why they matter
+    *TODO*
+### Monads
 *TODO*
