@@ -148,3 +148,17 @@ Redirection attention: Do this without self-judgement, make sure to apprecite th
 Becoming aware of MW isn't something *you* did, it's an unconsious process, train it.
 
 The "aha" moment is a moment of __introspective awareness__.
+
+__diligence:__ a firm intentional resolve to do something. Not forging the mind to do something it can't.
+
+Apply __diligence__ to directing your intention to train stable attention.
+
+Pg 86 for review
+
+Can use mental words/images to help with focusing on the breath, but let them fall away when they aren't necessary. This may take untill we'll into stage 4.
+
+Don't let peripheral awareness drop away. Allow sounds, sensations, __thoughts__ and feeling to continue in the background.
+
+In this stage breath doesn't need to be the center at attention, it is good enough to have it in the __field of consciousness__
+
+Remember: the mind is a bunch of processes going on in parallel, there is no *you* to blame.
