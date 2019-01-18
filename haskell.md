@@ -119,4 +119,65 @@ reduces the laering of abstractions. Solves:
     Well, I want to assemble several Cs, so let's make a network of Cs and call that a D
 
 ### Monads
-*TODO*
+Monads solve the problem of applying a value with a context (m a) to a function that take a
+normal value and returned a context (a -> mb). They also support the return function which
+puts a value in it's minimal context (like pure), >> which is like >>= with a default
+function that ignores it's input and fail, which is called when pattern matching in a do
+block fails (and maybe other times?).
+
+Here is the implmentation of the list monad.
+
+    return :: a -> m a
+    return x = [x]
+
+    (>>=) :: m a -> (a -> m b) -> m b
+    xs >>= f = concat (map f xs)
+
+    (>>) :: m a -> m b -> m b
+    x >> y = x >>= \_ -> y
+
+    fail :: String -> m a
+    fail _ = []
+
+A monad is a monoid object in a category of endofunctors: return is the unit, and
+join is the binary operation.
+
+#### Monad Laws
+The language itself cannot check for these laws.
+
+Left Identity: Putting a value in a default context, then binding it to a function
+is the same as calling that function with the value.
+
+    return x >>= f = f x
+
+Right Identit: If we bind a monadic value to return we get the same monadic value back.
+Basically return doesn't change the value or add any context.
+
+    m >>= return = m
+
+Associativity: it doesn't matter how monadic function application is nested. This is
+awkward with the bind function.
+
+    (m >> f) >>= g = m >>= (\x - f x >> g)
+
+This is better with the monad composition operator the equivalent of (.)
+
+    (<=<) :: (Monad m) => (b -> m c) -> (a -> m b) -> (a -> m c)
+    f <=< g = (\x -> g x >>= f)
+
+Now:
+
+    (f >=> g) >=> h = f >=> (g >=> h)
+
+This law allows following two things to be equivalent, which clearl should be correct
+
+    main = do
+            answer <- do
+                            unused <- getLine
+                            getLine
+            putStrLn answer
+
+    main = do
+            unused <- getLine
+            answer <- getLine
+            putStrLn answer
