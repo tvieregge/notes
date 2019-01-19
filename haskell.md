@@ -94,6 +94,31 @@ __Applicative Law(s):__ There are a bunch, only this one seems to get any attent
 
     pure f <*> a === fmap f a
 
+__Applicative *functions*:__ The implementation of <*> is a bit tricky.
+
+    (<*>) :: (Applicative f) => f (a -> b) -> f a -> f b
+    f <*> g = \x -> f x (g x)
+
+Specializing the type to `((->) r)` we have:
+
+    Applicative ((->) r) => ((->) r) (a -> b) -> ((->) r) a -> ((->) r) b
+
+Looking back at the definition of <*> we have
+
+* f is a function that returns a function, and takes a parameter of type r
+* g is a function that returns a value and takes a parameter of type r
+* x is a value of type r
+
+Because of curring `f x (g x)` does *not* mean f is given the result of (g x) as a
+param, the function that f *returns* is. This leads to the following steps.
+
+    f <*> g = \x -> f x (g x)
+    \x -> f1 (g x)              -- f takes x and returns a function f1 :: a -> b
+    \x -> f1 v                  -- g takes x and returnes v :: a
+    \x -> f2                    -- f1 takes v, f2 :: b. The lambda makes it r -> b
+
+See [this link](https://wjdhamilton.blogspot.com/2016/08/f-f-x-g-x.html) for more explanation.
+
 __Applicative Examples:__
 
     Just (+2) <*> Just 5 === Just 7
