@@ -211,3 +211,19 @@ This law allows following two things to be equivalent, which clearl should be co
             unused <- getLine
             answer <- getLine
             putStrLn answer
+
+#### Reader monad (functions as monads)
+
+Simillar to functions as applicatives.
+
+    (>>=) :: m a -> (a -> m b) -> m b
+    (>>=) :: ((->) r) a -> (a -> ((->) r) b) -> ((->) r) b
+
+    h >>= f = \w -> f (h w) w
+    \w -> f h' w                -- h :: r -> a, => h' :: a
+    \w -> f' w                  -- f :: a -> r -> b, => f' :: r -> b
+    \w -> f''                   -- f'' :: b, so resulting lambda :: r -> b
+
+This allows us to give a constant environment for evaluating functions (kind fo like a
+global variable). When evaluating `(h >>= f) r = f (h r) r` we first evaluate h in the
+context of r to get h', then evaluate then evaluate f of h' in the context of r.
