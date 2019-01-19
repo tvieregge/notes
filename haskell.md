@@ -1,3 +1,8 @@
+*It looks like this is generally a subset of "What I Wish I Knew When Learning Haskell"
+located here: http://dev.stephendiehl.com/hask/ . I think the exercise of making
+this is useful for me right now, but I'll likely stop soon and contribute anything new
+I have to that document.*
+
 #### Type class
 Defines a protocol for using an object rather than defining an object itself.  
 Ex. Eq type class defines the function
