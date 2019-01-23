@@ -123,20 +123,16 @@ Thses problems are:
 ## Stage Two
 ### Interrupted Attention and Overcoming Mind-Wandering
 
-__Goal:__ To change from meditation being mostly mind-wandering, interrupted by breif attention, to
-mostly attention to the breath with breif periodes of mind wandering.
+__Goal:__ To change from meditation being mostly mind-wandering, interrupted by brief attention, to
+mostly attention to the breath with brief periodes of mind wandering.
 (Shorten periodes of mind wandering, extend periodes of sustained attention).
 
-The main method is: appreciate the *aha moment* when you realize the mind is wandering (this
-shortens the periodes of mind-wandering) then *gently but firmly* redirect attention back to the
-breath (engaging with the breath trains for longer periodes of sustained attention).
+The main method is: appreciate the *aha moment* when you realize the mind is wandering then *gently but firmly* redirect attention back to the
+breath.
 
 You shouldn't be working hard (see above on attitude).
 
-__Obstacles:__ mind-wandering, forgettingi, monkey-mind, impatience. Forgetting isn't
-really dealth with until stage 3.
-
-__Forgetting:__ forgetting the MO as well as the intention to focus on the breath.
+__Forgetting:__ forgetting the MO as well as the intention to focus on the breath. Not dealt with at this stage
 
 __Mind-Wandering:__ after we've forgotten the mind will wander between thoughts, until we "wake-up".
 
@@ -147,18 +143,12 @@ Distraction -> Forgetting -> Mind-Wandering -> "Wakeing Up" -> Attention -> Dist
 Redirection attention: Do this without self-judgement, make sure to apprecite the moment.
 Becoming aware of MW isn't something *you* did, it's an unconsious process, train it.
 
-The "aha" moment is a moment of __introspective awareness__.
-
-__diligence:__ a firm intentional resolve to do something. Not forging the mind to do something it can't.
-
-Apply __diligence__ to directing your intention to train stable attention.
-
 Pg 86 for review
 
-Can use mental words/images to help with focusing on the breath, but let them fall away when they aren't necessary. This may take untill we'll into stage 4.
+#### Notes
 
-Don't let peripheral awareness drop away. Allow sounds, sensations, __thoughts__ and feeling to continue in the background.
+* Don't let peripheral awareness drop away. Allow sounds, sensations, __thoughts__ and feeling to continue in the background.
+* In this stage breath doesn't need to be the center at attention, it is good enough to have it in the __field of consciousness__.
+* Remember: the mind is a bunch of processes going on in parallel, there is no *you* to blame.
+* Can use mental words/images to help with focusing on the breath, but let them fall away when they aren't necessary. This may take untill well into stage 4.
 
-In this stage breath doesn't need to be the center at attention, it is good enough to have it in the __field of consciousness__
-
-Remember: the mind is a bunch of processes going on in parallel, there is no *you* to blame.
