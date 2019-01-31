@@ -130,7 +130,13 @@ mostly attention to the breath with brief periodes of mind wandering.
 The main method is: appreciate the *aha moment* when you realize the mind is wandering then *gently but firmly* redirect attention back to the
 breath.
 
-You shouldn't be working hard (see above on attitude).
+Redirection attention: Do this without self-judgement, make sure to apprecite the moment.
+Becoming aware of MW isn't something *you* did, it's an unconsious process, train it.
+
+Focusing on the breath: Try to notice the sesation of the start and end of each breath.
+
+__Monkey Mind:__ When attention jumps around rapidly. This is simmilar to mind-wandering, but a faster/more adgitated state.
+Expand your attention to your boy to overcome (return to step one or two of the 4 step transition).
 
 __Forgetting:__ forgetting the MO as well as the intention to focus on the breath. Not dealt with at this stage
 
@@ -140,13 +146,11 @@ __Mindfulness__ is strong when attention is accompanied by greater awareness.
 
 Distraction -> Forgetting -> Mind-Wandering -> "Wakeing Up" -> Attention -> Distraction...
 
-Redirection attention: Do this without self-judgement, make sure to apprecite the moment.
-Becoming aware of MW isn't something *you* did, it's an unconsious process, train it.
-
 Pg 86 for review
 
-#### Notes
+#### Other Notes
 
+* You shouldn't be working hard (see above on attitude).
 * Don't let peripheral awareness drop away. Allow sounds, sensations, __thoughts__ and feeling to continue in the background.
 * In this stage breath doesn't need to be the center at attention, it is good enough to have it in the __field of consciousness__.
 * Remember: the mind is a bunch of processes going on in parallel, there is no *you* to blame.
