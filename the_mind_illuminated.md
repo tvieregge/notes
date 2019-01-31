@@ -159,3 +159,22 @@ focus on the feeling of, the positive aspects e.g. the body being relaxed, mind 
 * Remember: the mind is a bunch of processes going on in parallel, there is no *you* to blame.
 * Can use mental words/images to help with focusing on the breath, but let them fall away when they aren't necessary. This may take untill well into stage 4.
 
+## Stage Three
+
+__Goal:__
+
+__Method:__
+
+__Following:__ Continuation of following the breath in stage 2. First, distinguish start/end of the in/out breath all eqaully (breath may change,
+ok as long as not deliberate, just passively observe). Then recognize individual sensations that make up each in/out breath (start with in breath).
+Looking for ~4-12 distinct sensations for out breath, and slightly less for in breath.
+
+__Connecting:__ More advanced verson of following, don't need now.
+
+__Lableling:__ After waking, up give the most recent distraction a simple neutral name (thinking, planning etc.) without analyzing the distraction itself.
+
+__Problems:__
+
+#### Other Notes ?
+
+* *Start* to drop the mental self-talk in this stage, it can easily lead you astray. Enjoy the silence.
