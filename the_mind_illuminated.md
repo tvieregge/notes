@@ -148,6 +148,9 @@ Distraction -> Forgetting -> Mind-Wandering -> "Wakeing Up" -> Attention -> Dist
 
 Pg 86 for review
 
+Dealing with impatience: Don't identify with it (*I am* impatient -> impatience is arising). Seek out and acknowledge, then
+focus on the feeling of, the positive aspects e.g. the body being relaxed, mind being alert, following the breath for a whole cycle.
+
 #### Other Notes
 
 * You shouldn't be working hard (see above on attitude).
