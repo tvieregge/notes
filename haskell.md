@@ -227,3 +227,18 @@ Simillar to functions as applicatives.
 This allows us to give a constant environment for evaluating functions (kind fo like a
 global variable). When evaluating `(h >>= f) r = f (h r) r` we first evaluate h in the
 context of r to get h', then evaluate then evaluate f of h' in the context of r.
+
+Foldr - constructor replacement. Replace cons with the given function. Doesn't consume
+list from the right!
+Foldl - for loop
+
+    foldr (+) 0 1:2:3:[] ->
+        1+2:3+0
+
+    foldl (+) 0 xs ->
+        accum = 0
+        for each x in xs
+            accume += x
+        return accume
+
+
