@@ -11,7 +11,7 @@ Thinking about the future is pleasurable, it's hard not to
 Usually we are overly optimistic
 Sometimes we imagine negative futures, these make the actually negative outcome less painful (study provided)
 Also, bring able to anticipate the painful thing makes it less painful
-Fear of the bad thing can help us motivate behavior
+Fear of the bad thing can help us motivate behaviour
 Humans like to use prediction to control things
 We act as though we can control things we can't (betting on dice that have been thrown be not)
 
@@ -32,9 +32,14 @@ Claims of happiness are from someone's point of view, a single person with a con
 
 The response to a stimuli is happening as we are deciding exactly what it is ( wolverine is scary, which makes flight or fight response happen, before we know it is a wolverine)
 Signals can get mixed (ex pg 63-64)
-Feeling something and believing you are feeling it are different. 
+Feeling something and believing you are feeling it are different.
 You can experience something workout being aware you did ( ex pg 65)
 This is looking like meditation ideas
 You are still retaining information when this happens (see blind sight)
 Can also have feeling without being aware of them (numbfeel) a lack of introspection
+Can't measure happiness perfect, but can't measure anything perfectly
+Reported Measure  of happiness in the moment is most accurate
+
+### Part 3, realism
+Imagining what we would feel like in situations is important, and we are bad at it
 
