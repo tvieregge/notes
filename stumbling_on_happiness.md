@@ -41,5 +41,23 @@ Self reported, real-time, attentive (see prev point on "Humans only notice chang
 Any work on quantifying the inaccuracy?
 
 ### Part 3, realism
-Imagining what we would feel like in situations is important, and we are bad at it
+Imagination is the tool we use to determine how we would feel in different situations in the future (what would it feel like if..., would I be happier as a painter or potter?). __We make mistakes when doing this__, example of happy martyr vs suicidal rich philanthropist.
+
+The problems with perception (seeing the present) and memory (seeing the past) are one of the ways we make mistakes with imagination (seeing the future).
+
+Memories are done with very lossy compression, only keeping the overall *gist* of what was going on. When we recall a memory we are synthesizing an experience from the remembered gist, then re-compressing the memory (recollection changes memory). This abstraction is opaque, you can't tell what was filled in vs not after the fact.
+
+A similar effect of filling in happens with perception. This happens seamlessly, even when a delay is present. A missing sound (e.g. from a cough) at the beginning of a sentence will be filled in differently based on the sentence's ending Ex: in "[cough]eel was on the shoe" the first word will be heard as heel vs "[cough]eel was on the orange" will be heard as peel.
+
+__Realism__: things are unchanged by our perception. In this case of cognition, things are as we see them (the same for all observers)
+
+Children start as *realists*, not distinguishing between things in the world and things in their mind, this leads to problems such as confusing personal vs global knowledge. As we age we learn to act as *idealists*, but this is an override we learn to apply when it is worth the energy/time. We still behave as realists initially (see P.O.V. experiment pg 96).
+
+Idealism, the idea that our perception of the world is mentally constructed from a combination of how the world is and our own mental state (thoughts, wants, feelings etc.).
+
+Seems like [Attribution Substitution](https://en.wikipedia.org/wiki/Attribute_substitution).
+
+Imagination fills in details (imagine "pasta dinner" and you will imagine sauce, setting etc.), which is necessary, but then __we treat these details as the truth__ which is problematic. People asked how much they would spend at a celebration dinner were equally sure of their guess regardless of the level of detail they confirmed with the experimenter i.e. whether the details were real or imagined. 
+
+How to get around this? *Superforecasting* is an idea to look into (from Jamie Brandon).
 
