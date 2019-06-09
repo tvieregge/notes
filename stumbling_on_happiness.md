@@ -61,3 +61,22 @@ Imagination fills in details (imagine "pasta dinner" and you will imagine sauce,
 
 How to get around this? *Superforecasting* is an idea to look into (from Jamie Brandon).
 
+People take into account things they notice more than things they don't notice. That is, if they try to figure out if P -> Q they don't look at if !P -> !Q, or they don't look at P(Evidence|Scenario) in Bayes Theorem. This leads to problems like selection bias and the base rate fallacy.
+
+Bayesian inference: P(A|E) = (P(E|A)P(A))/P(E)
+
+This also leads to paradoxes like something being the best and worst at the same time. An example is groups of subjects picking which countries were the most similar or different. They answered the same for both because when asked for similarities they ignored the dissimilarities and vice-versa.
+
+Corollary: People tend to only look at positive aspect when asked what to keep, and negative when looked at what to get rid of.
+
+When we use our imagination to predict our future happiness we similarly only look at the details we *do* imagine and forget to take into account everything the imagination left out.
+
+Example: Most Americans think they would be happier living in California than somewhere else, but people in California aren't any more happy. This is people overestimating how much the weather/scenery will make them happy and forgetting about everything else (housing cost, traffic). __This seems like Attribution Substitution again, you can't take into account *everything*, so you substitute it with "the thing that is different"__.
+
+The author suggests an idea: When students were asked to describe the events of a typical day they were more accurate at prediction the impact of an event (the outcome of a football game) on their happiness.
+
+Events in the near future are imagined in more detail than events farther out.
+
+We don't take this into account. When asked to describe a good day subjects would use a larger variety of events than if it was a year away. The next-day group described a more realistic mix of positive and negative events, but __both groups rated how realistic their descriptions were the same__.
+
+This leads us to make decisions about the future based on the fuzzy description (agreeing to do a favour that sounds good in theory, but sucks mush worse than imagined in practise).
