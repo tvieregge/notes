@@ -88,10 +88,20 @@ When the brain does filling with memory it used today as the model. Eg when midd
 
 Similarly this happens with imagination, since the whole thing is being filled in. We consistently fail to imagine how different the future will be, especially our future emotions (Not buying enough food at the grocery store if you are full).
 
+## Part Four
+### Presentism
 When the brain wants to imagine a sensation (like the high note in Happy Birthday) it uses the part of the brain that produces that sense (hearing) and you actually have the sensation (hear the note).
 
 A similar thing happens with emotions. If you try to imagine what you will feel like in a scenario (like infidelity) you actually feel the emotions as if it were currently happening. Your brain is using how you would feel *now* as a proxy for how you might feel in the future.
 
-Current events get priority over previewing events/prefeeling.
+Current events get priority over previewing events/prefeeling. We can tell this is happening with previewing, but not prefeeling.
 
 Prefeeling often works better than logical thinking. Eg people picking out art were more satisfied with if they went with their "gut" than if they thought logically.
+
+However it is limited. We cannot distinguish properly distinguish between what we are prefeeling and what we are currently feeling, so we imagine we'll feel in the future the same way we do today.
+
+Example: when calling subjects in different cities, the ones having good weather that day (feeling happy *now*) rated their lives as happier than those with bad weather (feeling sad *now*).
+
+
+
+## Summary/Strategies
