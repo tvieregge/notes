@@ -1,4 +1,5 @@
-### Part one, prospection
+## Part One
+### Prospection
 Humans think about the future, a lot, and it is an important part of life.
 
 When we think about the future we usually imagine good outcomes, which biases us toward being optimistic (unless you're depressed). When we do imagine bad outcomes it makes them less painful if they do occur (pain we can't anticipate is more severe).
@@ -9,7 +10,8 @@ Humans like to control things. Going as far as to act as though we can control t
 
 The concept of *later* is important, but you can mostly function without it (frontal lobe damage).
 
-### Part 2, subjectivity
+## Part Two
+### Subjectivity
 There are different types of happiness (the word is used in different ways), we'll be talking about emotional happiness (feeling happy).
 
 When someone make a claim of happiness it's from someone's point of view, a single person with a context of past experiences. Since people are changed by experiences, it permanently changes their view of previous events. Ex: Once you learn to read you can't see letters as just squiggles.
@@ -40,7 +42,8 @@ Self reported, real-time, attentive (see prev point on "Humans only notice chang
 
 Any work on quantifying the inaccuracy?
 
-### Part 3, realism
+## Part Three
+### Realism
 Imagination is the tool we use to determine how we would feel in different situations in the future (what would it feel like if..., would I be happier as a painter or potter?). __We make mistakes when doing this__, example of happy martyr vs suicidal rich philanthropist.
 
 The problems with perception (seeing the present) and memory (seeing the past) are one of the ways we make mistakes with imagination (seeing the future).
