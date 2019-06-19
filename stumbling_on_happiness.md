@@ -102,6 +102,24 @@ However it is limited. We cannot distinguish properly distinguish between what w
 
 Example: when calling subjects in different cities, the ones having good weather that day (feeling happy *now*) rated their lives as happier than those with bad weather (feeling sad *now*).
 
+Habituation: decreasing marginal utility.
 
+Variety and time are two factors that can be used to overcome habituation. If the rate is high habituation occurs and variety is needed, if the rate is slow then variety is not needed (marginal utility never decreases).
+
+Imagining time uses space as a metaphor. This leads us to imagine events far away in time in the same space, which leads us to __pick variety even if the rate is low, which decreases our total enjoyment__.
+
+When imagining events in the future we *first* imagine the event *now*, then make adjustments for the time if required. This leads us to stay very close to our starting point if we don't have the cognitive time/energy to do much correction. Eg subjects that were distracted when answering questions about future meal of enjoyment basically answered with current enjoyment.
+
+Regardless of energy, first reaction *anchors* final prediction.
+
+We compare situation relative to each other, not in absolute terms. Ex: An increasing salary over some period of time is valued higher than a decreasing salary with higher total value over that time. Ex2: Coffee went up in price, should I buy it? __The only thing that matters is if the current price is worth it, not that it went up/down.__
+
+When comparing different options we mistake all *possible* options for all *present* options. Ex: All the options at the department store make you forget about the option of *not buying anything*. __This suggests that you should consciously think of the options not presented when making decisions.__
+
+This leads to your decisions being changed by options that don't matter. Ex: subjects where asked to rate how much they would enjoy eating chips. If they were placed beside something unappealing  (sardines) they rated them higher than if beside something appealing (chocolate), but it *did not* change how they rated eating them. __Is this related to anchoring?__
+
+Similarly, this happens over time. Eg buying some excellent sounding but ugly speakers (because they sound better than the other ones at the store) which you regret after taking them home and not having other speakers to compare the audio quality to.
+
+Summary: We determine value by comparison, we can make different comparisons, and our values change based on different comparisons. This implies that to predict how we will feel in the future we need to think of the comparisons we will be making then, and not now.
 
 ## Summary/Strategies
