@@ -122,4 +122,18 @@ Similarly, this happens over time. Eg buying some excellent sounding but ugly sp
 
 Summary: We determine value by comparison, we can make different comparisons, and our values change based on different comparisons. This implies that to predict how we will feel in the future we need to think of the comparisons we will be making then, and not now.
 
+## Part Five
+### Rationalization 
+
+People overestimate the negative impact of negative events (illness, death, heartbreak etc.)
+
+To disambiguate stimuli a few things are particularly important. Take *bank* (the side of a river) vs *bank* (when money is kept).   
+__Context__: "The boat ran into the bank". The context of boat -> bank refers to river.   
+__Frequency__: "Don't run into the bank". A loan officer usually interacts with (money) banks -> bank refers to building.   
+__Recency__: "Put a check in the box". Because we just talked about banking, *check* refers to money transfer, not check-mark.
+
+More importantly, we also disambiguate based on what we *want* to be true. Ex: If you ask people to define the word "talented" they will define it in a way that makes them talented.
+
+Experiences are *very* ambiguous, and when a potential experience becomes an actual experience we tend to disambiguate in favour of it. Eg people rate a job more favourably once they have it.
+
 ## Summary/Strategies
