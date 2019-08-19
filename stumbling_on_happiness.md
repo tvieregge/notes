@@ -134,6 +134,36 @@ __Recency__: "Put a check in the box". Because we just talked about banking, *ch
 
 More importantly, we also disambiguate based on what we *want* to be true. Ex: If you ask people to define the word "talented" they will define it in a way that makes them talented.
 
-Experiences are *very* ambiguous, and when a potential experience becomes an actual experience we tend to disambiguate in favour of it. Eg people rate a job more favourably once they have it.
+Experiences are *very* ambiguous, and when a potential experience becomes an actual experience we tend to disambiguate in favour of it. Eg people rate a job more favourably once they have it. __Is this the same as the previous point?__
+
+We preferentially seek out information that is positive toward us (e.g. reading articles that show why the test we did poorly on isn't useful, seeking out people that did worse on the test than ourselves) or confirms our current bias.
+
+This also applies to people around us. Our friends tend to be people that see us positively, and we tend to put them in situations that lead them to say positive things (What did you like *best* about my cooking?).
+
+Similarly, we hold information that is positive toward us/confirm our biases to lower standard of evidence than the alternative. The difference between facts that *allow* us to continue believing or *compel* us to change.
+
+We generally aren't aware we are doing this, and if we try doing consciously we feel even worse.
+
+The *psychological immune system* is used to rationalize the past, and how easily it can do this affects how we feel.
+
+Ex. Being rejected by a group is worse than a single person.   
+Ex. We regret bad inaction more than bad actions. There's less material to work with if you don't take an action (This bad thing happened, but at least I learnt XYZ from it).
+
+This system only kicks in when the experience is bad enough, which leads to *slightly* bad experiences sometimes feeling worse than *very* bad experiences. Ex: subjects felt worse as a bystander to  someone being insulted than as the one being insulted.
+
+I also starts to work when we're stuck with the outcome. We are more critical of things we can change than things we are stuck with (friends vs family, a painting we can return vs not). Because we also value the freedom to change our mind. This can lead us to make decisions that undermine our happiness (e.g. paying extra for the ability to return a painting).
+
+Unexplained events have greater emotional impact, both positive and negative. Subjects that wrote an explanation about a traumatic they were involved with were healthier both physically and mentally; subjects given money by a stranger with no explanation stayed happy longer than ones given money with an explanation.
+
+## Part Six
+### Corrigibility
+
+When using past events to predict the future we use how easily we can remember something as a proxy for how likely it is. This fails us in two ways. Some things are easier to recall than others because of the structure of our memory (how many 4 letter words start with k vs end with k) and uncommon things are more memorable (being in the slow line at the grocery store vs a normal speed line).
+
+We have a strong bias toward the end of memories. Participants were put in pain for 60 seconds, then at a different date put in the same pain for 60 seconds with an additional 30 seconds of lesser pain. The session with the additional pain was reported as less painful overall even though it had a strictly greater amount of pain.
+
+This effect goes away when can compare the options in an obvious way.
+
+Not only to do we overestimate how our emotional response to events in the future, but these overestimations affect our *memories* of the events. Participants were asked to guess their emotions given the outcome of an election, then asked when it happened, and finally asked to remember how they felt some time later. The participants remembered an outcome closer to the original prediction than to what they reported.
 
 ## Summary/Strategies
