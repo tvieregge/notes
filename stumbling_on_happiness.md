@@ -166,4 +166,15 @@ This effect goes away when can compare the options in an obvious way.
 
 Not only to do we overestimate how our emotional response to events in the future, but these overestimations affect our *memories* of the events. Participants were asked to guess their emotions given the outcome of an election, then asked when it happened, and finally asked to remember how they felt some time later. The participants remembered an outcome closer to the original prediction than to what they reported.
 
+True information has obvious utility and thus propagates.
+
+False beliefs like "more money makes you happier" or "having kids will make you happy" may propagate if the belief increases it's own ability to spread (i.e. keeps a stable society going)
+
+People are accurate at reporting their current feelings, so using them as surrogates is much more accurate than your imagination.
+
+This works well because the uniqueness of people (especially ourselves) is usually overestimated.
+
 ## Summary/Strategies
+
+The three problems of imagination
+The three problems of memory
