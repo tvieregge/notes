@@ -20,7 +20,7 @@ PA - peripheral awareness
 * You may move through different stages over different day or throught a single sit
 * Using skills you learn from meditation in your daily life will greatl speed progress
 
-The rest of this chapter has an outline of each stage that is ver useful to look back on,
+The rest of this chapter has an outline of each stage that is very useful to look back on,
  but I wont include here.
 
 ## First Interlude
@@ -40,7 +40,7 @@ Can also be happening if something stands out from PA (you're writing an email a
 the cat meowing)
 
 __Peripheral Awareness__: The general awareness of everything. It filters out information
-it thinks in unimportant. It also profides quick reations that don't have time for analysis.
+it thinks is unimportant. It also provides quick reactions that don't have time for analysis.
 
 __Extrospective__ vs. __Introspective__: Extrospective means it is directed outside the the mind,
 introspective means internal to the mind (thoughts, feeling etc.).
@@ -58,7 +58,7 @@ attention.
 
 __Example__  
 Your partner has a bad day at work and complains about the food you made. It takes *mindfulness*
-to to maintain an objective awareness and realize what the complainet is really about. It take
+to to maintain an objective awareness and realize what the complainet is really about. It takes
 a more powerful consciousness to have the energy to deal with the strong emotions while
 maintaining mindfulness.
 
@@ -80,7 +80,7 @@ Use theis as part of the practice. Each step is an opportunity to distinguish be
 and awareness at different scopes of focus. Always try to keep awareness open. If attention
 moves away from the goal *gently* bring it back.
 
-1. Focus on the present - Anything is good, as lng as it is in the present. Give priority to 
+1. Focus on the present - Anything is good, as long as it is in the present. Give priority to 
 sensations over thoughts.
 2. Focus on the body - Any sesation related to the body is good.
 3. Bodily sensations related to the breath - Same as 2, but limited.
@@ -94,18 +94,18 @@ Attitude: Don't slip into a judgemental, critiacal, striving attitude. Aiming to
 from judgement and expectations. If you are feeling like you have to __struggle__ or it's
 __difficult__ you probably need to examine your attitude.
 
-You have mastered this stage when you never miss a daily practice excepts when comletely
+You have mastered this stage when you never miss a daily practice excepts when completely
 unavoidable.
 
 ## Second Interlude
 The mind has many processes and drives internaly that can be miscalibrated. This miscallibration
 can cause problems (especially with internal drives) that lead to *the five hinderances*.
-Meditation trains and emphasizes certain of these processes that help un move beyond these problems.
+Meditation trains and emphasizes certain of these processes that help us move beyond these problems.
 
 Keep in mind that these process are still useful. Laziness, adgitation etc. are useful.
 
 Ex of problematic thinking: "I need" a beautiful home to be happy; "I hate" rude people; "I can't
-take" this place anymore; "I'm not" good/fast/smat enough etc.
+take" this place anymore; "I'm not" good/fast/smart enough etc.
 
 Not sure on unsefulness of catecories. See page 67 details on them.
 
@@ -136,7 +136,7 @@ Becoming aware of MW isn't something *you* did, it's an unconsious process, trai
 Focusing on the breath: Try to notice the sesation of the start and end of each breath.
 
 __Monkey Mind:__ When attention jumps around rapidly. This is simmilar to mind-wandering, but a faster/more adgitated state.
-Expand your attention to your boy to overcome (return to step one or two of the 4 step transition).
+Expand your attention to your body to overcome (return to step one or two of the 4 step transition).
 
 __Forgetting:__ forgetting the MO as well as the intention to focus on the breath. Not dealt with at this stage
 
@@ -149,7 +149,7 @@ Distraction -> Forgetting -> Mind-Wandering -> "Wakeing Up" -> Attention -> Dist
 Pg 86 for review
 
 Dealing with impatience: Don't identify with it (*I am* impatient -> impatience is arising). Seek out and acknowledge, then
-focus on the feeling of, the positive aspects e.g. the body being relaxed, mind being alert, following the breath for a whole cycle.
+focus on the feeling of the positive aspects e.g. the body being relaxed, mind being alert, following the breath for a whole cycle.
 
 #### Other Notes
 
