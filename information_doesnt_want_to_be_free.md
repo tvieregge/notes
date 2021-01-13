@@ -35,4 +35,18 @@ to another format
 Locks always get broken. We have general purpose computers, not general purpose except for programs
 the entertainment industry doesn't like computers.
 A full encrypted chain of trust *may* defeat this, at the cost of giving all power to orgs making the 
-chain
+chain, see above
+
+The only way to make a lock is to stop the user from seeing what's going on. The only way to achieve
+that is to misrepresent the system state to the user, opening the door for malware etc.
+
+Digital appliances (limited purpose computer, e.g. routers, mp3 players) are general purpose
+computers that have been artificially limited. This is OK by itself, but means the device will
+treat it's owner as an attacker, complete with spyware etc.
+Also limiting - you can mix paint in a blender, but can't do equivalent things with DA
+
+Examples of above: ink-jet printers, large security vulnerabilities; phones, CarrierIQ which
+is a commercial rootkit that has access to everything on the phone, including PW and location
+
+Locking out users reduces *sales* not downloads. If you don't sell it how they want they'll pirate
+it. Once they pirate it they'll pirate other stuff, and make a habit out of it.
