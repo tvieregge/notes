@@ -120,3 +120,69 @@ copyright and get permission for things like logos on t-shirts of rioters.
 
 Corollary: strict liability doesn't scale. Ex: Twitter had 6000 tweets/sec, if 1/100 of a % were
 infringing on copyright twitter would be liable for > 1BB/min
+
+Notice and take down (NaTD) seems like a happy medium, but everyone involved dislike it. It's a
+large (impossible) burden on copyright holders to search everywhere for everything, the hosting
+provider has to deal with all the requests and the content creators git hit falsely with no
+recourse. It also leads to censorship in the form of fake take-down requests. Examples include
+police dept taking down videos of them committing illegal acts etc. See "The Chilling Effects
+Clearinghouse"
+
+The entertainment industry pushes for "More intermediary liability, with fewer checks and balance"
+in SOPA, PIPA etc.
+
+How are they doing ^:
+ * hosting provider: would be liable for infringing content they serve, similar to cable companies
+ * linkers: would be liable if they link to an infringing site
+ * ISPs: more restrictions, "Three Strikes" etc.
+ * search engines: similar to linkers
+ * payment processors + ad networks: required to stop payments to *accused* infringers
+ * registrars: seize domains
+ * DNS: suspend DNS for sites
+ * proxies: onion and similar would be illegal
+ * tech creators: possibly require licenses for ephemeral copies (i.e. in RAM)
+ 
+Currently much of the above is possible, but requires going through courts/arbitrators.
+These would be streamlined, removing much of the oversight and encouraging the intermediaries,
+which are private companies, to act as gatekeepers.
+
+Prev point makes it harder for intermediaries, which means less of them and they'll be more
+entrenched. This makes it harder and more expensive for content creators as the gatekeepers
+have more power. _Disorganized channels are good for creators._
+
+Creator's ability to make a living is tied to two things:
+ * negotiation leverage with whoever controls channels to your audience
+ * how easy it is for potential customers to discover your work
+Increasing intermediaries liability makes this worse.
+
+### Doctorow's Third Law
+Information Doesn't Want to Be Free, People Do
+
+The main fight in copyright and the internet isn't about content creators or any company, it's
+about a free and open internet.
+
+Copyright has it's place, but that place is with industry not the individual. You wouldn't want
+to get the SEC involved when buying a friend lunch.
+
+Associating copying with industry used to work, but with the internet this no longer works. If a
+kid doodles some fan fiction it no lawyers should get involved, and this wasn't a problem pre
+internet as no one would know, now it's much easier to see the infractions and copyright bots
+don't discriminate.
+
+It's impossible to control copying in a similar way to how it is impossible to control lending
+money for lunch. This doesn't mean that copyright is dead, in the same way it doesn't mean
+financial regulating is dead.
+
+Copyright should be used to regulate industry activity, not cultural.
+
+The internet is making the distribution of wealth in the entertainment industry more even.
+
+A few studies have shown that internet access improves quality of life in almost every way.
+Pg 107-108
+
+A censor wall won't work for anything.
+ * Requires looking at all traffic, aka spying on everyone
+ * Are easy to get around -> have to keep the list of blocked sites secret or it's just
+   advertising -> no oversight
+
+
