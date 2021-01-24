@@ -185,4 +185,51 @@ A censor wall won't work for anything.
  * Are easy to get around -> have to keep the list of blocked sites secret or it's just
    advertising -> no oversight
 
+Viacom, along with the major studios and broadcasters, have pushed for access to all the private
+files hosted online.
+
+Computers are in all facets of life, from hearing aids to airliners, and the laws that are made
+affect all of them. We need to be especially careful that we keep control of computers that we
+put in ourselves, or that we but ourselves inside
+
+This time is different: Because of ^ the stakes are much higher. If it's between the internet
+and the entertainment industry being able to function, the internet's more important.
+
+An old (original?) copyright law in the US gave 14 years, then a 14 year extension could be
+renewed by the author. This renewal gave some power to the author of the work in the case
+that it was popular.
+
+Sampling has been clamped down on. None of the original popular hip-hop albums could have
+been made under the current laws.
+
+Blanket licensing:
+ * flat fee for everything, use a sampling method to figure how much each song was played
+ * takes intermediaries out of policing role
+ * works with normal behaviour
+ * regulatory capture is a problem
+ * close to price fixing, hard to set prices
+ * has been done a lot, can clearly work
+ * increases competition, new labels could make money
+
+Copyright has to change when tech does. This happened each other time tech changed with the
+incumbents suing the startups who were "pirating" and eventually losing. 
+
+Some things will be lost. Just as the theater was largely displaces by film, some parts of the
+industry will shrink, while stories and performances that are more comfortable in the new formats
+on the internet will move, and thrive, in their new medium
+
+"A good copyright system is one that enables the largest diversity of creators making the largest
+diversity of works to please the largest diversity of audiences." pg 153
+This _isn't_ the maximization of profits. A good copyright system can be determined by the types
+of works that get created under it.
+
+### Epilogue
+
+The amount that the powerful are able to use the internet to spy/extend their power is terrifying,
+but it is a difference in degrees. The power it gives to the powerless is a difference in kind.
+
+Encryption works -> For the first time in history average people can communicate and organize
+without anyone else getting in on their communications.
+
+This ^ only works if the infrastructure is free and fair. Otherwise it's all downsides.
 
