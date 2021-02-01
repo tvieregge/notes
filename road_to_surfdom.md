@@ -54,5 +54,18 @@ The "Inevitability" of Planning
 
 Centralized planning, and the monopolies that help push us toward them, are not inevitable or caused by technological progress. They are the result of deliberate government policies.
 
+There are some situations in which planning beats competition, namely where standardization leads to increase in efficiency, e.g. everyone uses the same car. But the benefit of using planning is outweighed by the cost of the restrictions. It narrows your future choices.
+Not sure this holds up everywhere - vaccines
 
+### Five
+Planning and Democracy
 
+Planning an economy requires a goal to aim for, which necessitates the ordering of preferences and ethics for everyone involved. Just because you want an outcome doesn't mean others do.
+
+Common action is limited to actions where the people want common ends. These need concrete, actionable definitions, "common welfare" isn't enough.
+
+Be careful delegating powers to people outside the democratic process, especially when they will have to choose between ends (goals as above).
+
+Democracy doesn't stop decisions being made arbitrarily, or mean all it's decisions are good, e.g. applying the will of the majority (or vocal minority) on everyone.
+
+Democracy is a means to an end.
