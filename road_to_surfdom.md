@@ -69,3 +69,42 @@ Be careful delegating powers to people outside the democratic process, especiall
 Democracy doesn't stop decisions being made arbitrarily, or mean all it's decisions are good, e.g. applying the will of the majority (or vocal minority) on everyone.
 
 Democracy is a means to an end.
+
+### Six
+Planning and the Rule of Law
+
+The important thing with laws is that they are applied consistently and predictably, so that the individual can know how any coercive powers will be used. Central planning invalidates this, since the planner must make changes as conditions arise, e.g. grow more pigs instead of cows.
+Fairness isn't mentioned here... Also, is this so different than introducing a law that incentivises the production of pigs over cows? Maybe the speed of laws passing is the difference, maybe the author would be against that for reasons mentioned earlier.
+
+Retroactive judging of actions is a difference for ^
+
+Author mentions this is hard, example given to illustrate difference: The difference between providing signposts and telling people which road to take.
+
+Formal laws that are useful to unknown people for unknown aims are the best. This makes sense to stop invested parties passing laws (lobbyists come to mind) but seems hard in practice.
+
+Applying the same laws to everyone means that people are treated the same -> different groups of people won't be specifically disadvantaged.
+This goes hard against the current zeitgeist, doesn't seem to deal with concentration of wealth either.
+
+### Seven
+Economic Control and Totalitarianism
+
+Economic control grants planners control over almost all aspects of life, even if used indirectly. There is no "only give them power over economic matters" option.
+This is true both for the consumption and production (job) perspectives of individuals.
+
+The state can still do things to help, e.g. access to information.
+
+Doesn't seem to address taxes here.
+
+### Eight
+Who, Whom?
+
+Private property keeps power distributed between many people, avoiding concentration of power.
+
+It's better to have a world where the wealthy are powerful than where only the already powerful can gain wealth.
+Is this actually meaningful?
+
+People prefer inequality to come from something impersonal. Suffering as the result of the decisions of authority are much less tolerated.
+
+There is no general moral code in society -> we can't provide a just price/wage the will be agreed upon.
+
+Political parties that seek power have in mind the advancement of a particular group. With that power eventually the only way to for people to advance is by using the coercive power of the state, and the only way to gain that is through that political party
