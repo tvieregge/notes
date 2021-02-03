@@ -112,11 +112,37 @@ Political parties that seek power have in mind the advancement of a particular g
 ### Nine
 Security and Freedom
 
-Basic economic security of the necessities is compatible with liberalism, it is the economic security that involves setting status relative to others that doesn't work.
+Basic economic security of the necessities is compatible with liberalism, it can be applied evenly to everyone. It is the economic security that involves setting status relative to others that doesn't work, e.g. some group having protection from their income lowering.
 Hayek seemed to be in support of UBI later on
 
 Social welfare for unpredictable disasters (insurance) is also a net benefit. There's no way for the individual to plan against it.
 
 If the basic security given to citizens is higher than the normal security in other countries it could cause practical political issues.
+
+Gaining full security requires giving up all freedom. This ends up looking like the military.
+No fundamental reason some people can't do that if they choose, just don't force it on everyone. The author suggests optional labour through the military as a possible solution to basic income.
+
+Granting security to one group over others makes the rest less secure. Doing this repeatedly make people more likely to give up freedom for security as their security is diminished.
+
+Employing people has become seen as exploitation, while commanding them is seen as honourable.
+
+Germany as a civil service state. Salaried civil service positions inside a hierarchical seen as superior to finding your own vocation.
+
+### Ten
+Why the Worst Get On Top
+
+When people look for dictators they want someone who is "strong" i.e. can carry out whatever decisions they desire. This results in a pseudo-military party where the members voluntarily submit themselves to the rule of the leads (remember, these are the subset of the population looking for a dictator). This well organized minority can now take over.
+This reminds me of the fall of the roman republic. Is there historical evidence for a minimum % of the population needed for this to happen?
+
+And so, the ones who don't care about democracy, or the will of the people, get to the top
+
+To achieve the broadest support you need to appeal to the LCD, the gullible, then make an enemy to unite against
+
+Collectivist redistribution of capital is never taken to it's logical conclusion (spreading capital equally around the world) so the group that it _actually_ gets redistributed to is whoever is loudest.
+
+If the good of the whole is the reason d'etre then the ends always justify the means
+
+### Eleven
+The End of Truth
 
 
