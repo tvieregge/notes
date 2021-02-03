@@ -108,3 +108,15 @@ People prefer inequality to come from something impersonal. Suffering as the res
 There is no general moral code in society -> we can't provide a just price/wage the will be agreed upon.
 
 Political parties that seek power have in mind the advancement of a particular group. With that power eventually the only way to for people to advance is by using the coercive power of the state, and the only way to gain that is through that political party
+
+### Nine
+Security and Freedom
+
+Basic economic security of the necessities is compatible with liberalism, it is the economic security that involves setting status relative to others that doesn't work.
+Hayek seemed to be in support of UBI later on
+
+Social welfare for unpredictable disasters (insurance) is also a net benefit. There's no way for the individual to plan against it.
+
+If the basic security given to citizens is higher than the normal security in other countries it could cause practical political issues.
+
+
