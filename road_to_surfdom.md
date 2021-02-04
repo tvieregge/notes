@@ -145,4 +145,38 @@ If the good of the whole is the reason d'etre then the ends always justify the m
 ### Eleven
 The End of Truth
 
+The most effective way to get everyone serve a single system is to make them all believe it's their plan. In that case less direct coercion is needed.
+
+The same techniques are used in liberal societies, but everything pointing in the same direction makes it different in totalitarianism
+
+To convince people it was their plan you need to convince them it was always their idea. Reusing/misshaping language is often used, e.g. "Liberty" is thrown around a lot in totalitarian states. The eventually create almost a new language, which make logical debate impossible
+
+In a planned society the moral code must be made on the fly to justify the actions of the state, therefore it can't be consistent and won't be truthful
+
+Art and science must also follow the state, as they could make something new which undermines authority. Every issue becomes politicized, truth begins to have no meaning.
+
+How does modern disinformation fit in here?
+
+### Twelve
+The Socialist Roots of Naziism
+
+Links Naziism to earlier socialist works.
+
+"is the highest form of the life of the state which has ever been known on earth." Johann Plenge, about the wartime German state.
+Can a liberal state survive the loss of a total war, or will it go the way Germany did?
+
+### Thirteen
+The Totalitarians in Our Midsts
+
+How badly things have gone in other socialist states can make it seem even less likely that it would happen "here", wherever that is. Remember that no one would have guessed what would happen with the Nazis in 1930
+
+Scientist and engineers we some of the first to join the Nazis, as experts who could help make the planned state.
+
+The mixing of science and politics or rather science and morality, can be used by the totalitarian state for justifications of it's actions. E.g. Nature published an article that proposes greater scientific input into government for wholesale planning.
+
+Giving the state control of monopolies gives those monopolies a permanent status, and make criticizing that monopoly criticizing the state, leading to no criticism being admitted to.
+"For the government to remedy an abuse is to admit responsibility for it"
+
+
+
 
