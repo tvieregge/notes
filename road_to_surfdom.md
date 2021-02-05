@@ -177,6 +177,39 @@ The mixing of science and politics or rather science and morality, can be used b
 Giving the state control of monopolies gives those monopolies a permanent status, and make criticizing that monopoly criticizing the state, leading to no criticism being admitted to.
 "For the government to remedy an abuse is to admit responsibility for it"
 
+### Fourteen
+Material Conditions and Ideal Ends
 
+There was a phobia of economics, and a general lack of understanding of how complicated and intertwined the economic system was.
+
+Always aiming for the lowest unemployment will backfire, either by incentivising lowering of productivity or requiring coercion.
+
+The rise of totalitarianism in Europe was furthered by there existing a large recently dispossessed middle class
+
+The immutable rights under a socialist society are that of the privilege of certain groups (by the setting of economic gain by the plan) rather than individual freedom.
+
+What are the immutable rights under a 
+
+### Fifteen
+The Prospects of International Order
+
+Changing international economic competition between companies to competition between organized states leads to more international conflict.
+
+International planning doesn't work, peoples ideals/morals are too different. We tried that with colonization...
+
+States may agree to the rules of the game (international trade), but they won't agree on an ordering of importance.
+
+Don't help the poor by telling them what to do, help them to build themselves up.
+
+Calls for an international body with just enough power to keep trade working (WTO like?)
+
+Idea that threads through whole book: The more similar people are, the more rules and shared purpose you can put around them. Internationally only the fewest rules work (see ^), then nations apply more. I suppose HOAs are the smallest unit (other than families?)
+
+Federation as an international organizing force, "federation of the world" being the end goal of some classic liberal thinkers.
+Need a good definition of federalism for this
+
+This federation shouldn't be too ambitious, start with large blocs where some fairly similar countries join
+
+Democracy needs a training ground; an area where people can practise democratic ideals in a system they can understand, since the federal government is too big for any one person to comprehend.
 
 
