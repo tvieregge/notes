@@ -1,2 +1,9 @@
 .stignore
 voltus.md
+
+# to exclude workspace cache
+.obsidian/workspace
+
+# This file is used to keep track of last auto backup/pull
+.obsidian-git-data
+

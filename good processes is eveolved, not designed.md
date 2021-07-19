@@ -1,0 +1,23 @@
+https://lethain.com/good-process-is-evolved/
+
+The core point of this is an algorithm for designing process, which boils down to:
+1. Figure out the problem
+2. Do you need a new process/a process at all?
+3. Figure out all the reasonable approaches
+4. Pick one, remembering to consider all the different groups that might be using it
+5. Test it, in a cheap and narrow way. (this often means with just one team) [[model document and share]]
+6. Refine the problem statement in light of what was learned in the test, this often involves adding a new constraint 
+7. Go back to step 5 until you find something that works failrly well (and is usually very simple)
+8. Practice the process
+9. Evaluate, and don't be afraid to throw it away
+
+The version from the article:
+>1.  **Identify problem statement**. There is a problem that either you have identified or folks you support have raised. Refine this into a problem statement that captures the problem you want to solve (“we want everyone to have the opportunity to apply to lead special projects”) along with the constraints you want to respect while doing so (“we want to retain our ability to select project leads quickly”).
+2.  **Look for alternatives**. Process is so expensive to maintain that we want to start out spending some time trying to avoid creating a new process. It’s quite possible that the problem statement is really [feedback to improve your existing processes](https://lethain.com/work-policy-not-exceptions/), not evidence that you need a new policy. If you can identify an existing process to improve instead of creating a new process, generally prefer to do so.
+3.  **Document approaches**. It’s easy to simply apply the approaches you’re most familiar with, so easy that it’s the most prevalent failure mode of leaders who join a new company. Take some time to reach out to folks at other companies and learn how they approach the same problem.
+4.  **Consider cohorts**. One aspect that’s essential and easy to overlook is to ensure you test with different cohorts of folks who will have different perspectives and needs: remotes, folks with significant family obligations, early-career folks, long-tenured folks, folks in a variety of job functions, and so on.
+5.  **Test approach**. Identify a reasonable approach, not necessarily an amazing one, and give it a limited test run. The best test run [is cheap and narrow](https://lethain.com/model-document-share/), optimizing for rapid feedback over a perfect approach. Trialing process within a small team is surprisingly effective, because it allows you to learn if a process works before you start advocating for wide adoption. Companies have limited bandwidth to adopt and maintain process, so it’s helpful to weed out ineffective processes early. Small rollouts make it cheap to iterate and improve.
+6.  **Refine problem statement**. When an approach ends up not working well, I find that it’s almost always because your problem statement is missing a constraint. For example, it may be that some teams need to select project leads every day, so a multi-day process is too much overhead for them. In that case, you might want to extent the problem statement to only cover assigning project leads for _scarce_ opportunities, not for all opportunities. Incorporating the newly discovered constraints into your problem statement is the most direct path to effective process.
+7.  **Iterate approach**. With your updated problem statement, adapt or replace your approach with another reasonable idea. Then return to testing it! It’s generally the case that once you’ve identified the proper problem statement, the approach will be almost disappointingly simple. That’s a good thing.
+8.  **Practice**. Once you find an approach that works reasonably well, folks often want to start evaluating it immediately, but that’s often ineffective. The first time an organization uses a new process almost never goes super well, it takes time to learn new things, particularly when you need hundreds of folks to change at the same time. Run practice sessions, publically describe success stories, and ensure everyone builds experience using it.
+9.  **Evaluate**. Now that you’ve practiced the process to an extent where folks are comfortable running it, it’s time to evaluate whether it’s effective. If ̉it’s not working out, go back to refining your problem statement. Evolving process is time intensive, and sometimes you just don’t have enough time to do it well. In those cases, it’s a _success_ to discard a process that doesn’t work. Don’t hold on to bad process that you don’t have time to fit, let it fly free. Some of my best process work has been canceling bad processes, and sometimes without providing any replacement at all.

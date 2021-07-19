@@ -1,0 +1,1 @@
+Are there any examples of [[reversing income inequality]]?

@@ -1,6 +1,8 @@
 ### Anarchism, Or The Revolutionary Movement Of The Twenty-first Century   
 ### by Andrej Grubacic & David Graeber
 
+An essay on [[anarchism]]
+
 Anarchists by other names: direct democracy, autonomism, anti-authoritarianism   
 Core principles: decentralization, voluntary association, mutual aid, the network model, the rejection of any idea that the end justifies the means   
 Point: anarchism as an ethics of practise, build a new society withing the current   

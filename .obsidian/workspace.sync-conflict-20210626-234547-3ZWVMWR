@@ -1,0 +1,132 @@
+{
+  "main": {
+    "id": "2121333831f3452f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fda94490630f226",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2021-06-25_Fri.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "841e6732d47c7723",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe39498e971360d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "064be66570964705",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7974cb4d52f11b65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#voltech",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3e6fe1b3a4aabfdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa57f401db6efa2",
+        "type": "tabs",
+        "dimension": 39.46830265848671,
+        "children": [
+          {
+            "id": "ef1c7a2a97947f0c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b89191ec9db982fd",
+        "type": "tabs",
+        "dimension": 60.53169734151329,
+        "children": [
+          {
+            "id": "5ad6f6771702b3dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2021-06-25_Fri.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a80d7f127697c243",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "6fda94490630f226",
+  "lastOpenFiles": [
+    "2021-06-25_Fri.md",
+    "2021-06-28_Mon.md",
+    "2021-06-24_Thu.md",
+    "2021-06-23_Wed.md",
+    "take home interview questions.md",
+    "interviewing.md",
+    "work discussions.md",
+    "backburner.md",
+    "2021-06-16_Wed.md",
+    "2021-06-15_Tue.md"
+  ]
+}

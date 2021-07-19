@@ -1,0 +1,10 @@
+{
+  "promptDelete": false,
+  "useTab": false,
+  "vimMode": true,
+  "strictLineBreaks": false,
+  "spellcheck": false,
+  "alwaysUpdateLinks": true,
+  "fileSortOrder": "byModifiedTime",
+  "attachmentFolderPath": "attachments"
+}

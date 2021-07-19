@@ -1,0 +1,1 @@
+Belief propogation: a message-passing algorithm for performing inference on graphical models, such as Bayesian networks and Markov random fields

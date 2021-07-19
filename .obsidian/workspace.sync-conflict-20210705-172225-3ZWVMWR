@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "2121333831f3452f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4c27e46a8d8512b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "housing shortage in canada.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "841e6732d47c7723",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe39498e971360d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "064be66570964705",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7974cb4d52f11b65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "neil 1:1",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3e6fe1b3a4aabfdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa57f401db6efa2",
+        "type": "tabs",
+        "dimension": 39.46830265848671,
+        "children": [
+          {
+            "id": "ef1c7a2a97947f0c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b89191ec9db982fd",
+        "type": "tabs",
+        "dimension": 60.53169734151329,
+        "children": [
+          {
+            "id": "5ad6f6771702b3dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "housing shortage in canada.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a80d7f127697c243",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "f4c27e46a8d8512b",
+  "lastOpenFiles": [
+    "housing in canada.md",
+    "obsidian.md",
+    "onboarding for fast growth.md",
+    "max.md",
+    "neil.md",
+    "2021-06-07_Mon.md",
+    "model document and share.md",
+    "voltus.md",
+    "start slowly.md",
+    "stoicism.md"
+  ]
+}

@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "2121333831f3452f",
+    "type": "split",
+    "children": [
+      {
+        "id": "de016c440879fdf3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "recipes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "841e6732d47c7723",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe39498e971360d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "064be66570964705",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7974cb4d52f11b65",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byModifiedTime"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "3e6fe1b3a4aabfdb",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fa57f401db6efa2",
+        "type": "tabs",
+        "dimension": 39.46830265848671,
+        "children": [
+          {
+            "id": "ef1c7a2a97947f0c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "b89191ec9db982fd",
+        "type": "tabs",
+        "dimension": 60.53169734151329,
+        "children": [
+          {
+            "id": "5ad6f6771702b3dc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "recipes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "a80d7f127697c243",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "de016c440879fdf3",
+  "lastOpenFiles": [
+    "recipes.md",
+    "banana bread.md",
+    "miso dart.md",
+    "banaa bread.md",
+    "no meat pie.md",
+    "2021-07-14_Wed.md",
+    "backburner.md",
+    "2021-07-15_Thu.md",
+    "2021-07-13_Tue.md",
+    "work discussions.md"
+  ]
+}
