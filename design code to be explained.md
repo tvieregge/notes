@@ -1,0 +1,1 @@
+Planning for [[code walkthroughs]] while designing code could be helpful. If it's easy to explain to people in a single meeting, it's probably clear/simple code with an obvious desing

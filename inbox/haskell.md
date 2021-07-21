@@ -63,7 +63,10 @@ More formally:
     fmap id = id
     fmap (f . g) = fmap f . fmap g
 
-__Applicative Functors:__ Functors that can be mapped over other functors. They implement
+__Applicative Functors:__ Functors that can be mapped over other functors.
+*[[error handling with applicative functors]] is a particularly good use*
+
+They implement
 *pure* which put the value in a default context (lifts the value) and *<\*>*, which applies
 the function from *inside* the context of one functor to the value *inside* the context of
 another.
@@ -143,7 +146,7 @@ a list to a value.
 
 #### Why they matter
 The ability to combine components of type A into a single component of type a is useful,
-reduces the laering of abstractions. Solves:
+reduces the layring of abstractions. Solves:
 
     Oh no, these Bs are not connectable, so let's make a network of Bs and call that a C.
     Well, I want to assemble several Cs, so let's make a network of Cs and call that a D

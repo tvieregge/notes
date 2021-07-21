@@ -1,6 +1,7 @@
 Stuff that I think should be talked about at [[voltus]]
 
 #### Slack
+- mention stack overflow for work
     
 #### Team meetings
 - teams getting splintered https://github.com/voltusdev/voltus/discussions/8543
